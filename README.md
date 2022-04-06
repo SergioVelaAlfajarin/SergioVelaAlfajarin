@@ -1,5 +1,4 @@
 <h1> <em> <p align="center" >SERGIO VELA</p> </em> </h1>
-<hr/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
