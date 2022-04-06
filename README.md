@@ -1,7 +1,13 @@
-<h1><p align="center">SERGIO VELA</p></h1>
+<h1> <em> <p align="center" >SERGIO VELA</p> </em> </h1>
 <hr/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=00F722&background=000000&center=true&vCenter=true&width=600&height=40&lines=Siempre+informandome+y+aprendiendo;Interes+en+Java%2C+c%23%2C+python%2C+rust+y+mas;Programando+mi+juego+en+java)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <kbd>
+      <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00F722&background=000000&center=true&vCenter=true&width=600&height=40&lines=Siempre+informandome+y+aprendiendo;Interes+en+Java%2C+c%23%2C+python%2C+rust+y+mas;Programando+mi+juego+en+java"/>
+    </kbd>
+  </a>
+</div>
 
 <hr/>
 
