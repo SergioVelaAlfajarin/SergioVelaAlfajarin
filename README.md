@@ -35,8 +35,8 @@
 
 <ul>
   <li> Al programar en java, la mayoria del tiempo uso IntelliJ, de jetbrains. </li>
-  <li> Sino, suelo usar Vim, que tengo completamente personalizado, y si la situacion lo requieres VSCode. </li>
-  <li> Tambien uso eclipse para java, para probar cosas que se me ocurran en java </li>
+  <li> Sino, suelo usar Vim, que tengo completamente personalizado, y si la situacion lo requiere, VSCode. </li>
+  <li> Tambien uso eclipse para java, para probar cosas que se me ocurran. </li>
 </ul>
 
 <!-- agregar imagenes -->
