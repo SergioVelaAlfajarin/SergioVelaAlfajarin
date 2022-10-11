@@ -4,7 +4,7 @@
 :set tabstop=4
 :set shiftwidth=4
 :set smarttab
-
+language en_US
 :set softtabstop=4
 :set mouse=a
 :set clipboard=unnamed
