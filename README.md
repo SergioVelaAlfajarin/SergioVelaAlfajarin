@@ -28,8 +28,9 @@
 
 <ul>
   <li> Normalmente programo en java o ptyhon, depende la simplicidad del proyecto. </li>
-  <li> Tengo interes en rust, para el back-end, y javascript para el front-ent. Tambien en kotlin y flutter para el desarrollo movil. </li>
-  <li> Estoy programando varios proyectos personales, en java, temporalmente ocultos. </li>
+  <li> Tengo interes en rust, para el back-end, y javascript para el front-end. Tambien en kotlin y flutter para el desarrollo movil. </li>
+  <li> Estoy programando varios proyectos personales, en java y kotlin. </li>
+  <li> Tambien Conozco c#, pues lo uso para desarollar addons en sap business one. </li>
 </ul>
 
 <!-- agregar imagenes -->
@@ -38,8 +39,9 @@
 
 <ul>
   <li> Al programar en java, la mayoria del tiempo uso IntelliJ, de jetbrains. </li>
-  <li> Sino, suelo usar Vim, que tengo completamente personalizado, y si la situacion lo requiere, VSCode. </li>
-  <li> Tambien uso netbeans para java, para probar cosas que se me ocurran. </li>
+  <li> Sino, suelo usar VSCode, el cual tengo personzalizado con extensiones. </li>
+  <li> Para aplicaciones moviles, uso android studio. </li>
+  <li> Y para sap, utilizo Visual studio 2015/2022. </li>
 </ul>
 
 ## Idiomas y herramientas:
